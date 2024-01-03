@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PMMG
+- 🔭 I’m currently working @ PMMG
 - 🌱 I’m currently learning IT @ PUC Minas
 
 <div align="center">
